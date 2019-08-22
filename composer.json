@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/updater",
+    "description": "The embeded updater for themes, plugins in WordPress",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
